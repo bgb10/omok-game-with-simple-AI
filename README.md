@@ -1,2 +1,3 @@
-# omok-game-with-simple-AI
-Omok(gomoku) game with self-made simple algorithm for Contest : CLUG Coding Contest
+# KU_AI_OMOK
+
+#Alpha-beta Pruning을 이용하여 만든 오목의 모습이다.
