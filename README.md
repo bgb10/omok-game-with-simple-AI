@@ -1,3 +1,9 @@
-# KU_AI_OMOK
+# Omok-game-with-simple-AI
+Omok(gomoku) game with self-made simple algorithm for *Contest : CLUG Coding Contest*
 
-#Alpha-beta Pruning을 이용하여 만든 오목의 모습이다.
+## Notice
+- Compiled in Visual Studio 2019
+- Written in Korean(한국어)
+- **DO NOT COPY**
+## Contents
+- Simple Omok(gomoku) game
